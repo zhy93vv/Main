@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"G:/Ue5/TestGame/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"G:/Ue5/TestGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/82/REOYI296P189800V0DI129.uasset",
+				"G:/Ue5/TestGame/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"G:/Ue5/TestGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/ZA/6Y2NLVSGJPQAMJAG1UP8RA.uasset",
+				"G:/Ue5/TestGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WU/NB37RT5Q32Z8MJWD8BD2SO.uasset"
+			]
+		}
+	]
+}
